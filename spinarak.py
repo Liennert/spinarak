@@ -20,8 +20,8 @@ recipients = [os.environ['GMAIL_SENDER'], os.environ['GMAIL_RECIPIENT']]
 password = os.environ['GMAIL_APP_PW'] # https://myaccount.google.com/apppasswords
 
 num_iterations = 10
-day_of_month='28'
-num_of_guests=3
+day_of_month='24'
+num_of_guests=2
 location = 'Tokyo'
 #location = 'Osaka'
 
